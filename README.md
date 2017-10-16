@@ -1,20 +1,31 @@
 # sadd4ru
 
-SADD makes it easier for Software Development Teams to create high qualitative solutions and products for the sake of well designed System and Software Architecture.
+SADD поможет разрабатывать качественные решения и системы за счет эффективной методологии направленной на создание ПО ориентированного на Архитектуру.
 
-You'll no longer have to know all of world wide SW development methodologies so as they are incorporated in SADD
+Вам не обязательно знать стандарты разработки архитектуры - они уже учтены в SADD. 
 
-The abstract from the main article named "SADD-MSAJ-The Spiral Architecture Driven Development (SADD) complete edition v.1.doc" was published in the Microsoft Architecture Journal #23 where you may find out a lot of other usefull and important information and articles abiut software and system architecture design.
+Данный проект - часть единого информационного пространства http://bp4you.ru
+На этом сайте Вы можете заказать себе книгу "Путь Аналитика".
 
-This site contains complete edition of Spiral Architecture Driven Development (SADD) life cycle and practical materials and examples as illustrations for SADD. All these materials could be used as templates and best practices by everyone who is interested in and are named in according to the following legend:
+Разработка архитектуры - один из главных вопросов разработки ПО, влияющих на качество конечного решения.
 
-Abbreviation	Meaning
-SADD-MSAJ	The complete edition of The Spiral Architecture Driven Development article
-SADD-MTHD	Spiral Architecture Driven Development Methodology
-SADD-TPLT	Spiral Architecture Driven Development Methodology Template
+Этот сайт содержит описание методологии проектирования архитектуры системы - "Spiral Architecture Driven Development (SADD) / Спиральная архитектурно-ориентированная разработка ПО". 
 
-It's recommended to read the materials as they are uploaded, ordered and numbered for better understanding.
-Don't hesitate to send your comments and questions to sdlc.sadd@mail.ru.
+Основная статья "SADD-MSAJ-The Spiral Architecture Driven Development (SADD) complete edition v.1.doc" была опубликована в 23 номере журнала Microsoft Architecture Journal. В этом журнале вы найдете массу интересных материалов по вопросам проектирования архитектуры ПО.
 
-There is also Russian version of this site at http://sadd4ru.codeplex.com/. 
-So as the author is Russian these materials are more detailed, so if you read Russian, you'd better visit that resource.
+В этой статье на сайте описываются основные моменты авторской методологии разработки ПО - SADD (The Spiral Architecture Driven Development) или Спиральную архитектурно-управляемую разработку ПО. Название методологии также можно перевести на русский язык как «Спиральная архитектурно-направляемая разработка ПО», «Спиральная архитектурно-управляемая разработка ПО», а также как «Спиральная разработка ПО, движимая разработкой архитектуры». 
+
+Главная идея методики в том, что разработка ПО строится «вокруг» архитектуры, постоянно «подталкивается» архитектурными решениями и главным образом ориентирована на максимально возможное раннее снятие архитектурных рисков.
+
+Все материалы этого сайта вы можете использовать как шаблоны и хорошие практики в ваших проектах. 
+
+Материалы именованы в соответствии с легендой: 
+
+Аббревиатура	Значение
+SADD-MSAJ	Полная версия статьи The Spiral Architecture Driven Development
+SADD-MTHD	Составляющие методологии The Spiral Architecture Driven Development
+
+Для максимально полного понимания я рекомендую знакомиться с материалами в том порядке как они загружены и пронумерованы. 
+Буду рад Вашим комменатриям и вопросам по адресу sdlc.sadd@mail.ru.
+
+Также есть английская версия ресурса по адресу http://sadd.codeplex.com.
